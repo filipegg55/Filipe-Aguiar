@@ -1,0 +1,5 @@
+{
+  "name": "Copy of GERADOR DE VIDEO SRT",
+  "description": "An application to create a video storyboard from a subtitle (.srt) file. Upload an SRT file, and the app will break it into blocks. Then, upload an image for each block to generate a video where each image's duration matches the text block's timing.",
+  "requestFramePermissions": []
+}
